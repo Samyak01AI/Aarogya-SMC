@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF5722</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha">#B3FFFFFF</color>
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="success_light">#E8F5E9</color>
+    <color name="alert">#FF9800</color>
+    <color name="alert_light">#FFF3E0</color>
+    <color name="alert_background">#FFF8E1</color>
+    <color name="alert_transparent">#40FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="error_light">#FFEBEE</color>
+    <color name="emergency">#D32F2F</color>
+    <color name="emergency_light">#FFCDD2</color>
+    <color name="info">#2196F3</color>
+    <color name="info_light">#E3F2FD</color>
+    <color name="warning">#FFC107</color>
+    <color name="warning_light">#FFF9C4</color>
+
+    <!-- UI Elements -->
+    <color name="divider">#E0E0E0</color>
+    <color name="border">#BDBDBD</color>
+    <color name="ripple">#20000000</color>
+
+    <!-- Transparent Colors -->
+    <color name="transparent">#00000000</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>

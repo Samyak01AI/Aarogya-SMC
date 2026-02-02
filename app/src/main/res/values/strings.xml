@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Health Monitor</string>
+    <string name="tagline">Your Health, Our Priority</string>
+    <string name="version">Version 1.0.0</string>
+
+    <!-- Authentication -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_subtitle">Sign in to continue monitoring your health</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- Registration -->
+    <string name="create_account">Create Account</string>
+    <string name="signup_subtitle">Join us to start tracking your health</string>
+    <string name="select_user_type">I am a:</string>
+    <string name="citizen">Citizen</string>
+    <string name="hospital">Hospital</string>
+    <string name="authority">Authority</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_hint">At least 8 characters</string>
+    <string name="agree_terms">I agree to the Terms &amp; Conditions and Privacy Policy</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_user">Welcome, %s!</string>
+    <string name="dashboard_subtitle">Stay updated with health alerts and track your wellbeing</string>
+    <string name="health_alert_message">New health alert in your area</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="report_symptoms">Report Symptoms</string>
+    <string name="view_alerts">View Alerts</string>
+    <string name="nearby_hospitals">Nearby Hospitals</string>
+    <string name="risk_map">Risk Map</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="emergency_helpline">National Health Helpline: 104</string>
+    <string name="call_emergency">Call Now</string>
+
+    <!-- Symptom Report -->
+    <string name="symptom_report_info">Please provide accurate information to help us serve you better. Your data is confidential.</string>
+    <string name="patient_details">Patient Details</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="select_symptoms">Select Your Symptoms</string>
+    <string name="select_all_apply">Select all that apply</string>
+    <string name="fever">Fever (100.4°F or higher)</string>
+    <string name="cough">Cough</string>
+    <string name="breathing_difficulty">Difficulty Breathing</string>
+    <string name="headache">Headache</string>
+    <string name="body_ache">Body Ache</string>
+    <string name="fatigue">Fatigue</string>
+    <string name="sore_throat">Sore Throat</string>
+    <string name="nausea">Nausea or Vomiting</string>
+    <string name="diarrhea">Diarrhea</string>
+    <string name="rash">Skin Rash</string>
+    <string name="symptom_duration">How long have you had these symptoms?</string>
+    <string name="today">Started today</string>
+    <string name="one_to_three_days">1–3 days</string>
+    <string name="four_to_seven_days">4–7 days</string>
+    <string name="more_than_seven_days">More than 7 days</string>
+    <string name="additional_notes">Additional Notes (Optional)</string>
+    <string name="optional">Optional</string>
+    <string name="share_location">Share my location for accurate health alerts</string>
+    <string name="submit_report">Submit Report</string>
+
+    <!-- Map & Hospitals -->
+    <string name="search_location">Search location or hospital</string>
+    <string name="all_hospitals">All</string>
+    <string name="government">Government</string>
+    <string name="private">Private</string>
+    <string name="risk_areas">Risk Areas</string>
+    <string name="my_location">My Location</string>
+    <string name="legend">Legend</string>
+    <string name="risk_area">Risk Area</string>
+    <string name="sample_hospital_name">City General Hospital</string>
+    <string name="sample_hospital_type">Government</string>
+    <string name="sample_distance">2.3 km away</string>
+    <string name="call_hospital">Call Hospital</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="close">Close</string>
+
+    <!-- Alerts -->
+    <string name="health_alerts">Health Alerts</string>
+    <string name="alert_summary">Alert Summary</string>
+    <string name="critical">Critical</string>
+    <string name="warning">Warning</string>
+    <string name="info">Info</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="mark_all_read">Mark All Read</string>
+    <string name="no_alerts">No Alerts</string>
+    <string name="no_alerts_message">You\'re all caught up! No new health alerts at this time.</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="sample_alert_title">Dengue Outbreak Alert</string>
+    <string name="sample_alert_message">Cases of dengue have been reported in your area. Take necessary precautions.</string>
+    <string name="sample_time">2 hours ago</string>
+    <string name="sample_location">Downtown Area</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="sample_user_name">John Doe</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="sample_email">john.doe@example.com</string>
+    <string name="sample_phone">+91 98765 43210</string>
+    <string name="location">Location</string>
+    <string name="health_statistics">Health Statistics</string>
+    <string name="reports">Reports Submitted</string>
+    <string name="alerts_received">Alerts Received</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="edit_picture">Edit Picture</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="push_notifications_desc">Receive all app notifications</string>
+    <string name="health_alerts_desc">Get notified about health risks in your area</string>
+    <string name="outbreak_warnings">Outbreak Warnings</string>
+    <string name="outbreak_warnings_desc">Critical disease outbreak notifications</string>
+    <string name="privacy">Privacy</string>
+    <string name="location_sharing">Location Sharing</string>
+    <string name="location_sharing_desc">Allow app to access your location</string>
+    <string name="anonymous_reports">Anonymous Reports</string>
+    <string name="anonymous_reports_desc">Submit health reports anonymously</string>
+    <string name="general">General</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="about_app">About App</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <string name="version_info">Version 1.0.0 (Build 1)</string>
+
+    <!-- Health Guidance -->
+    <string name="health_guidance">Health Guidance</string>
+    <string name="health_status">Health Status</string>
+    <string name="status_normal">Normal</string>
+    <string name="recommendations">Recommendations for You</string>
+    <string name="sample_recommendation">Stay hydrated and drink plenty of fluids throughout the day</string>
+    <string name="when_to_seek_emergency_care">When to Seek Emergency Care</string>
+    <string name="emergency_symptoms_title">Call emergency services if you experience:</string>
+    <string name="emergency_symptoms_list">• Difficulty breathing or shortness of breath\n• Persistent chest pain or pressure\n• New confusion or inability to wake\n• Bluish lips or face\n• Severe, persistent vomiting</string>
+    <string name="call_emergency_services">Call Emergency Services</string>
+    <string name="prevention_tips">Prevention Tips</string>
+    <string name="wash_hands_regularly">Wash Hands Regularly</string>
+    <string name="wash_hands_desc">Clean your hands with soap and water for at least 20 seconds, especially after being in public places</string>
+    <string name="wear_mask">Wear a Mask</string>
+    <string name="wear_mask_desc">Cover your nose and mouth when around others, especially in crowded areas</string>
+    <string name="maintain_distance">Maintain Physical Distance</string>
+    <string name="maintain_distance_desc">Keep at least 6 feet distance from people who are not from your household</string>
+    <string name="boost_immunity">Boost Your Immunity</string>
+    <string name="boost_immunity_desc">Eat nutritious foods, exercise regularly, and get adequate sleep to strengthen your immune system</string>
+    <string name="consult_healthcare_provider">Consult Healthcare Provider</string>
+
+    <!-- Content Descriptions -->
+    <string name="app_logo">App Logo</string>
+    <string name="alert_icon">Alert Icon</string>
+    <string name="notification_icon">Notification Icon</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="hospital_icon">Hospital Icon</string>
+    <string name="distance_icon">Distance Icon</string>
+    <string name="time_icon">Time Icon</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="info_icon">Info Icon</string>
+    <string name="warning_icon">Warning Icon</string>
+    <string name="privacy_icon">Privacy Icon</string>
+    <string name="language_icon">Language Icon</string>
+    <string name="document_icon">Document Icon</string>
+    <string name="navigate_icon">Navigate Icon</string>
+    <string name="health_status_icon">Health Status Icon</string>
+    <string name="hand_wash_icon">Hand Wash Icon</string>
+    <string name="mask_icon">Mask Icon</string>
+    <string name="immunity_icon">Immunity Icon</string>
+
+</resources>
